@@ -10,8 +10,3 @@ Spell out a number. For example
     43112603 --> forty three million, one hundred and
                  twelve thousand,
                  six hundred and three
-
-Master modified 1!
-Branch modified 1!
-Master modified 2!
-Branch modified 2!
