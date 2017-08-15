@@ -14,3 +14,4 @@ Spell out a number. For example
     Master 1
     Branch 1
     Master 2
+    Branch 2
